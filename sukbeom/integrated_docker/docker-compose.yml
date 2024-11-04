@@ -1,3 +1,4 @@
 include:
   - ./elk-compose.yml
-  - ./airflow-compose.yaml
+  - ./airflow-compose.yml
+  - ./mysql-compose.yml
